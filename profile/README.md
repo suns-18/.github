@@ -5,3 +5,5 @@ Both of us shares the same charactor in Chinese. One has 9 suns, so there are 18
 
 Collaborators:
 - Liu Y.
+- Xiao T.
+- Wang Y.
